@@ -1,0 +1,66 @@
+Active Cases: {'Count': '80,413', 'MildCondition': '74,758', 'SeriousCondition': '5,655'}
+ClosedCases: {'Count': '82,288', 'MildCondition': '76,219', 'SeriousCondition': ' 6,069'}
+
+Active Cases: {'Count': '80,413', 'MildCondition': '74,758', 'SeriousCondition': '5,655'}
+ClosedCases: {'Count': '82,288', 'MildCondition': '76,219', 'SeriousCondition': ' 6,069'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
+Active Cases: {'Count': '85,316', 'MildCondition': '79,395', 'SeriousCondition': '5,921'}
+ClosedCases: {'Count': '84,294', 'MildCondition': '77,776', 'SeriousCondition': ' 6,518'}
+
